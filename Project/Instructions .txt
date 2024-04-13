@@ -1,0 +1,12 @@
+1. Download python 
+
+https://www.anaconda.com/download
+
+2. Open anaconda prompt
+
+3. Run this command - cd "<project folder>"
+Example:- cd "C:\Users\shivji\OneDrive\Desktop\Project"
+
+4. Run this command - pip install -r requirements.txt
+
+5. Run this command - streamlit run services.py

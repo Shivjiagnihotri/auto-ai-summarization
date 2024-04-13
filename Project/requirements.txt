@@ -1,0 +1,14 @@
+#python= 3.10
+
+transformers
+tika
+reportlab
+torch==2.1.0
+fake-useragent
+newspaper3k
+trafilatura
+openpyxl
+streamlit
+stqdm
+st-pages
+rake-nltk
