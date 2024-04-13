@@ -1,7 +1,7 @@
 # auto-ai-summarization
 Streamlit based python AI Summarizer using open-source hugging face models to summarize large text, pdf, doc and even websites at speed.
 
-![AI summarizer demo](https://github.com/Shivjiagnihotri/auto-ai-summarization/assets/110963535/9d8c4192-b906-43d6-ba4d-b97b3b0693d1)
+![AI summarizer demo](https://github.com/Shivjiagnihotri/auto-ai-summarization/assets/110963535/99f66229-8ec7-4c29-af89-d1db8bd24954)
 
 ![Screenshot 2024-04-06 222413](https://github.com/Shivjiagnihotri/auto-ai-summarization/assets/110963535/da64cd48-3d65-4be3-a0f8-e1251eb55145)
 
